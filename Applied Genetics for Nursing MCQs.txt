@@ -1,0 +1,849 @@
+# Applied Genetics for Nursing — MCQs
+
+## Part I
+
+**1. What is the basic building block of a living organism?**  
+A. Tissue  
+B. Organ  
+C. Cell  
+D. Protein
+
+**2. Which cells do not have a nucleus?**  
+A. Neurons  
+B. White blood cells  
+C. Red blood cells  
+D. Hepatocytes
+
+**3. What is one main reason cells need a nucleus?**  
+A. To store glucose  
+B. To make proteins  
+C. To transport oxygen  
+D. To digest food
+
+**4. Which phase of the cell cycle involves DNA replication?**  
+A. G1  
+B. S  
+C. G2  
+D. M
+
+**5. Why is the cell cycle clinically important?**  
+A. It explains why all cells become cancerous  
+B. It helps explain cancer, chemotherapy, and screening  
+C. It only applies to skin cells  
+D. It is unrelated to disease
+
+**6. Cancer is best described as:**  
+A. Increased apoptosis  
+B. Uncontrolled cell division  
+C. Lack of inflammation  
+D. Reduced protein synthesis
+
+**7. What often causes cancer at a cellular level?**  
+A. Excess water intake  
+B. DNA mutations  
+C. Low glucose  
+D. Lack of vitamins only
+
+**8. What do cell cycle checkpoints normally do?**  
+A. Speed up mutation formation  
+B. Repair damage or trigger apoptosis  
+C. Prevent all cell division  
+D. Produce antibodies
+
+**9. What can reactive oxygen species (ROS) cause?**  
+A. Only beneficial effects  
+B. DNA damage  
+C. Better protein folding  
+D. Decreased mutation risk always
+
+**10. Which is an example of a modifiable cancer risk factor?**  
+A. Age  
+B. Smoking  
+C. Sex  
+D. Family history only
+
+**11. Which of the following is a non-modifiable cancer risk factor?**  
+A. Smoking  
+B. Alcohol use  
+C. Inherited mutation  
+D. Diet
+
+**12. What does “genetic does not equal inherited” mean?**  
+A. All genetic changes are inherited  
+B. Many mutations are acquired during life  
+C. No mutations are inherited  
+D. Only children get mutations
+
+**13. What is the central dogma of biology?**  
+A. Protein → RNA → DNA  
+B. DNA → RNA → protein  
+C. RNA → DNA → protein  
+D. DNA → protein → RNA
+
+**14. What molecule leaves the nucleus to reach the ribosome?**  
+A. DNA  
+B. mRNA  
+C. ATP  
+D. Protein
+
+**15. What process copies DNA into mRNA?**  
+A. Translation  
+B. Transcription  
+C. Replication  
+D. Mutation
+
+**16. What process builds protein from mRNA?**  
+A. Translation  
+B. Transcription  
+C. Repair  
+D. Apoptosis
+
+**17. Which of the following is a protein?**  
+A. Sodium  
+B. Haemoglobin  
+C. Chloride  
+D. Water
+
+**18. Haemoglobin mainly:**  
+A. Stores iron  
+B. Carries oxygen  
+C. Lowers blood glucose  
+D. Breaks down starch
+
+**19. Low haemoglobin can lead to:**  
+A. Diabetes  
+B. Anaemia  
+C. Cystic fibrosis  
+D. Oedema
+
+**20. Albumin mainly:**  
+A. Maintains oncotic pressure  
+B. Breaks down lactose  
+C. Forms clot mesh  
+D. Repairs DNA
+
+**21. Low albumin can lead to:**  
+A. Oedema  
+B. Hypertension  
+C. Hyperglycaemia  
+D. Asthma
+
+**22. Transferrin is responsible for:**  
+A. Transporting iron  
+B. Transporting oxygen  
+C. Clotting blood  
+D. Digesting proteins
+
+**23. Ferritin mainly:**  
+A. Raises blood glucose  
+B. Stores iron  
+C. Produces antibodies  
+D. Regulates blood pressure
+
+**24. Insulin:**  
+A. Raises blood glucose  
+B. Lowers blood glucose  
+C. Breaks down fats  
+D. Makes mucus thicker
+
+**25. Glucagon:**  
+A. Lowers blood glucose  
+B. Raises blood glucose  
+C. Stores glucose in muscle  
+D. Causes lactose intolerance
+
+**26. Growth hormone is mainly involved in:**  
+A. Clotting  
+B. Growth and metabolism  
+C. Oxygen transport  
+D. Immune defence only
+
+**27. Erythropoietin (EPO) stimulates:**  
+A. WBC production  
+B. RBC production  
+C. Platelet breakdown  
+D. Fat absorption
+
+**28. Amylase breaks down:**  
+A. Fat  
+B. Lactose  
+C. Starch  
+D. DNA
+
+**29. Lipase breaks down:**  
+A. Proteins  
+B. Fats  
+C. Iron  
+D. Glucose
+
+**30. Lactase breaks down:**  
+A. Lactose  
+B. Starch  
+C. Amino acids  
+D. Collagen
+
+**31. Pepsin digests:**  
+A. Proteins in the stomach  
+B. Fats in the intestine  
+C. Iron in blood  
+D. DNA in nucleus
+
+**32. Actin is important for:**  
+A. Muscle contraction  
+B. Oxygen transport  
+C. Immune defence  
+D. Glucose regulation
+
+**33. Myosin is important for:**  
+A. Muscle contraction  
+B. DNA repair  
+C. Chloride transport  
+D. Antibody production
+
+**34. Collagen mainly provides:**  
+A. Energy  
+B. Connective tissue strength  
+C. Glucose control  
+D. Oxygen binding
+
+**35. Keratin is found in:**  
+A. Bone marrow  
+B. Skin, hair, nails  
+C. Blood plasma  
+D. Liver only
+
+**36. Dystrophin is important for:**  
+A. Liver detoxification  
+B. Muscle fibre stability  
+C. Iron storage  
+D. DNA replication
+
+**37. Fibrinogen is:**  
+A. A clot precursor  
+B. A chloride channel  
+C. A hormone  
+D. An antioxidant
+
+**38. Fibrin:**  
+A. Forms clot mesh  
+B. Stores oxygen  
+C. Breaks down starch  
+D. Maintains pH
+
+**39. Immunoglobulins are involved in:**  
+A. Transport  
+B. Immune defence  
+C. Muscle contraction  
+D. Glucose storage
+
+**40. Complement proteins are involved in:**  
+A. Immune cascade  
+B. Bone formation  
+C. Blood pressure control  
+D. Skin pigmentation
+
+**41. Na⁺/K⁺ ATPase:**  
+A. Breaks down fats  
+B. Maintains ion gradients  
+C. Produces antibodies  
+D. Repairs DNA
+
+**42. CFTR protein is a:**  
+A. Hormone  
+B. Chloride channel  
+C. DNA repair enzyme  
+D. Structural muscle protein
+
+**43. Mutations in CFTR cause:**  
+A. Diabetes  
+B. Cystic fibrosis  
+C. Anaemia  
+D. Lactose intolerance
+
+**44. Ion channels are important for:**  
+A. Ion movement  
+B. Iron storage  
+C. Protein digestion  
+D. DNA transcription only
+
+**45. Receptor proteins mainly help with:**  
+A. Cell signalling  
+B. Oxygen transport  
+C. Fat digestion  
+D. Clot formation
+
+**46. The newborn heel prick test is also called the:**  
+A. Pap test  
+B. Guthrie test  
+C. BRCA test  
+D. CRP test
+
+**47. The heel prick test is used to screen for:**  
+A. Only infections  
+B. Genetic/metabolic disorders  
+C. Broken bones  
+D. Heart attacks
+
+**48. Which disorder is detected by newborn screening?**  
+A. Cystic fibrosis  
+B. Appendicitis  
+C. Hypertension  
+D. Asthma only
+
+**49. Phenylketonuria (PKU) is caused by a defect in:**  
+A. CFTR  
+B. Phenylalanine hydroxylase  
+C. Haemoglobin  
+D. Insulin
+
+**50. Untreated PKU can cause:**  
+A. Improved brain function  
+B. Irreversible brain damage  
+C. Better digestion  
+D. High chloride in sweat
+
+**51. Treatment for PKU is mainly:**  
+A. Surgery  
+B. Special diet  
+C. Antibiotics  
+D. Radiation
+
+**52. Cystic fibrosis is caused by mutation in:**  
+A. BRCA1  
+B. CFTR  
+C. MLH1  
+D. p53
+
+**53. In cystic fibrosis, faulty CFTR causes:**  
+A. Too much iron absorption  
+B. Thick sticky mucus  
+C. High insulin production  
+D. Low RBC production
+
+**54. Cystic fibrosis affects the lungs by causing:**  
+A. Thin mucus and bleeding  
+B. Poor mucus clearance and infections  
+C. No oxygen exchange ever  
+D. Increased blood pressure
+
+**55. Cystic fibrosis can also cause:**  
+A. High salt in sweat  
+B. Low salt in sweat  
+C. Low calcium in blood only  
+D. Liver cancer always
+
+**56. BRCA1 and BRCA2 are:**  
+A. Hormones  
+B. Genes that code for DNA repair proteins  
+C. Electrolytes  
+D. Enzymes that digest starch
+
+**57. BRCA proteins normally:**  
+A. Make mucus  
+B. Repair damaged DNA  
+C. Transport oxygen  
+D. Break down lactose
+
+**58. A BRCA mutation increases risk of:**  
+A. Breast and ovarian cancer  
+B. Cystic fibrosis  
+C. Diabetes only  
+D. Anaemia only
+
+**59. Lynch syndrome involves mutations in:**  
+A. DNA mismatch repair genes  
+B. CFTR only  
+C. Albumin genes  
+D. Actin genes
+
+**60. Lynch syndrome increases risk of:**  
+A. Colorectal and endometrial cancer  
+B. Asthma  
+C. Diabetes only  
+D. Sickle cell disease
+
+**61. All cancers are genetic because:**  
+A. They are all inherited  
+B. They develop from mutations in DNA  
+C. They only occur in children  
+D. They are caused only by infections
+
+**62. Most cancers are:**  
+A. Inherited  
+B. Acquired  
+C. Infectious  
+D. Congenital
+
+**63. Smoking can damage DNA by:**  
+A. Only causing vitamin deficiency  
+B. Direct DNA damage and ROS formation  
+C. Increasing collagen production  
+D. Lowering mutation risk
+
+**64. UV radiation causes DNA damage mainly by:**  
+A. Increasing haemoglobin  
+B. Creating thymine dimers  
+C. Making insulin inactive  
+D. Blocking all transcription
+
+**65. Alcohol increases cancer risk partly because it produces:**  
+A. Chloride  
+B. Acetaldehyde  
+C. Albumin  
+D. Ferritin
+
+**66. Obesity may increase cancer risk through:**  
+A. Lower inflammation  
+B. Chronic inflammation and ROS  
+C. Fewer cell divisions  
+D. Less hormonal signalling
+
+**67. A protective dietary strategy for reducing DNA damage is:**  
+A. More processed meat  
+B. High fibre, fruit, and vegetables  
+C. High-dose sugar supplements  
+D. No antioxidants ever
+
+**68. High-dose antioxidant supplements:**  
+A. Are always proven to prevent cancer  
+B. Are not consistently beneficial and may interfere with treatment  
+C. Replace the need for food  
+D. Stop all ROS completely
+
+**69. CRP is best described as:**  
+A. A specific infection marker only  
+B. A marker of inflammation, not infection specifically  
+C. A DNA repair protein  
+D. A type of hormone
+
+**70. Chronic inflammation can:**  
+A. Protect against cancer only  
+B. Promote cancer development  
+C. Stop all mutation risk  
+D. Eliminate ROS completely
+
+## Part II
+
+**71. What causes chromosomal disorders?**  
+A. Only inherited single-gene mutations  
+B. Abnormal chromosome number or structure  
+C. Low protein intake  
+D. Infection with viruses only
+
+**72. Chromosomal disorders often occur due to errors in:**  
+A. Mitosis  
+B. Meiosis  
+C. Transcription  
+D. Translation
+
+**73. Non-disjunction refers to:**  
+A. DNA repair failure  
+B. Unequal chromosome distribution during meiosis  
+C. Protein misfolding  
+D. Inflammation of chromosomes
+
+**74. Trisomy means:**  
+A. Missing one chromosome  
+B. Extra chromosome  
+C. Extra gene only  
+D. Two missing chromosomes
+
+**75. Monosomy means:**  
+A. One extra chromosome  
+B. One missing chromosome  
+C. One extra gene  
+D. One extra allele only
+
+**76. Most autosomal chromosomal abnormalities are:**  
+A. Easily inherited and mild  
+B. Not compatible with life  
+C. Always X-linked  
+D. Always caused by environment
+
+**77. Which trisomy is associated with Down syndrome?**  
+A. Trisomy 13  
+B. Trisomy 18  
+C. Trisomy 21  
+D. Monosomy X
+
+**78. Trisomy 18 is also called:**  
+A. Turner syndrome  
+B. Edwards syndrome  
+C. Patau syndrome  
+D. Fragile X syndrome
+
+**79. Trisomy 13 is also called:**  
+A. Patau syndrome  
+B. Edwards syndrome  
+C. Klinefelter syndrome  
+D. Marfan syndrome
+
+**80. A major factor increasing risk of trisomy is:**  
+A. Maternal age  
+B. Exercise  
+C. Height  
+D. Blood type
+
+**81. Why are sex chromosome abnormalities often more compatible with life than autosomal ones?**  
+A. Because sex chromosomes never contain genes  
+B. Due to X-inactivation  
+C. Because Y chromosomes replace all missing genes  
+D. Because they are always harmless
+
+**82. Turner syndrome has the karyotype:**  
+A. 47, XXY  
+B. 45, X  
+C. 47, XXX  
+D. 46, XY
+
+**83. Klinefelter syndrome has the karyotype:**  
+A. 45, X  
+B. 47, XXY  
+C. 47, XYY only  
+D. 46, XX
+
+**84. XXX or XYY syndromes are often:**  
+A. Fatal in infancy  
+B. Mild or undiagnosed  
+C. Always severe intellectual disability  
+D. Caused only by environment
+
+**85. Biological sex is determined only by:**  
+A. Chromosomes  
+B. Hormones  
+C. Anatomy  
+D. Chromosomes, hormones, anatomy, and development
+
+**86. About what proportion of people have some natural sex chromosome variation?**  
+A. 1 in 10  
+B. 1 in 100  
+C. 1 in 400–500 births  
+D. 1 in 10,000
+
+**87. Down syndrome is usually caused by:**  
+A. Monosomy 21  
+B. Trisomy 21  
+C. Trisomy 18  
+D. Deletion of X chromosome
+
+**88. People with Down syndrome may have increased risk of:**  
+A. Only solid tumours  
+B. Leukaemia and some cancers  
+C. No cancer risk changes  
+D. Only lung cancer
+
+**89. Why do some people with Down syndrome have reduced risk of many solid tumours?**  
+A. Extra chromosome 21 may suppress tumour growth and angiogenesis  
+B. They have no immune system  
+C. They do not make proteins  
+D. They have no cell division
+
+**90. In Down syndrome, one important blood cell development factor is:**  
+A. GATA1  
+B. CFTR  
+C. BRCA1  
+D. HBB
+
+**91. A clinical advantage of understanding Down syndrome cancer risk is:**  
+A. To avoid any screening  
+B. To recognise leukaemia risk and avoid false reassurance  
+C. To stop all treatments  
+D. To diagnose by appearance alone
+
+**92. Partial trisomy means:**  
+A. A full extra chromosome  
+B. Only part of a chromosome is duplicated  
+C. One chromosome is missing  
+D. Chromosomes are deleted completely
+
+**93. Mosaic trisomy means:**  
+A. Every cell has the same abnormality  
+B. Only some cells have the extra chromosome  
+C. Only the placenta is affected  
+D. Only males are affected
+
+**94. Mosaic trisomy 21 means:**  
+A. All cells are normal  
+B. Some cells are normal and some have trisomy 21  
+C. The person has monosomy 21  
+D. The person has 45 chromosomes in all cells
+
+**95. NIPT stands for:**  
+A. Neural imaging protein test  
+B. Non-invasive prenatal testing  
+C. Nuclear invasive placental test  
+D. New infant pathology test
+
+**96. NIPT is best described as:**  
+A. A diagnostic test  
+B. A screening test only  
+C. A treatment  
+D. A biopsy
+
+**97. NIPT is commonly used from around:**  
+A. Week 4 of pregnancy  
+B. Week 10 of pregnancy onward  
+C. Week 30 of pregnancy only  
+D. After birth only
+
+**98. NIPT can screen for:**  
+A. Down syndrome, Edwards syndrome, and Patau syndrome  
+B. Only cystic fibrosis  
+C. Only diabetes  
+D. Only heart disease
+
+**99. If NIPT is high risk, the next step is usually:**  
+A. Ignore the result  
+B. Diagnostic testing after counselling  
+C. Immediate treatment without confirmation  
+D. No further action ever
+
+**100. An invasive diagnostic test in pregnancy is:**  
+A. Ultrasound only  
+B. CVS or amniocentesis  
+C. Blood pressure check  
+D. MRI only
+
+**101. Chorionic villus sampling tests:**  
+A. Fetal blood directly  
+B. Placental tissue  
+C. Amniotic fluid only  
+D. Maternal urine
+
+**102. Amniocentesis tests:**  
+A. Placental tissue  
+B. Fetal cells in amniotic fluid  
+C. Maternal saliva  
+D. Nuchal translucency
+
+**103. A risk of amniocentesis is:**  
+A. High blood pressure  
+B. Miscarriage  
+C. Diabetes  
+D. Hair loss
+
+**104. Placental mosaicism means:**  
+A. Only the fetus is abnormal  
+B. The placenta contains a mix of normal and abnormal cells  
+C. There are no chromosomes  
+D. Only the mother is affected
+
+**105. Confined placental mosaicism can cause:**  
+A. False positives in NIPT or CVS  
+B. False negatives in all blood tests  
+C. Guaranteed diagnosis  
+D. No effect on screening
+
+**106. Genetic diagnosis does not always equal:**  
+A. A clinical outcome  
+B. A chromosome  
+C. A family history  
+D. A pregnancy
+
+**107. What is one ethical issue in antenatal screening?**  
+A. Informed consent  
+B. Eye colour  
+C. Height measurement  
+D. Hair texture
+
+**108. Which is a concern with antenatal screening results?**  
+A. Probabilistic uncertainty and anxiety  
+B. No false positives or negatives ever  
+C. Only DNA sequencing issues  
+D. No effect on parents
+
+**109. What should nurses help patients understand about screening?**  
+A. Screening is always diagnostic  
+B. Screening vs diagnostic testing  
+C. Screening is never useful  
+D. Screening always predicts severity
+
+**110. A key nursing principle in screening is:**  
+A. Use complicated language  
+B. Support autonomy and informed decision-making  
+C. Give no explanations  
+D. Avoid discussing risk
+
+**111. Family studies help identify:**  
+A. Patterns of disease across generations  
+B. Blood pressure changes only  
+C. Infection outbreaks only  
+D. Nutrition issues only
+
+**112. Pedigrees are used to map:**  
+A. Diet history  
+B. Family history  
+C. Exercise levels  
+D. Medication doses
+
+**113. In a pedigree, circles represent:**  
+A. Males  
+B. Females  
+C. Affected only  
+D. Deceased only
+
+**114. In a pedigree, squares represent:**  
+A. Females  
+B. Males  
+C. Carriers only  
+D. Children only
+
+**115. A limitation of family history is:**  
+A. It is always perfect  
+B. Unreliable or incomplete information  
+C. It replaces genetic testing  
+D. It never helps
+
+**116. Single-gene disorders generally follow:**  
+A. Random inheritance  
+B. Mendelian inheritance patterns  
+C. Only environmental inheritance  
+D. Mitochondrial inheritance only
+
+**117. Autosomal dominant inheritance means:**  
+A. Two abnormal alleles are required  
+B. One abnormal allele is enough  
+C. Only males are affected  
+D. It skips all generations
+
+**118. A classic feature of autosomal dominant disorders is:**  
+A. Often seen in every generation  
+B. Only affected sons  
+C. Only maternal transmission  
+D. No family history ever
+
+**119. Autosomal recessive disorders require:**  
+A. One abnormal allele  
+B. Two abnormal alleles  
+C. No alleles  
+D. X chromosome deletion
+
+**120. Carriers of autosomal recessive disorders are usually:**  
+A. Always severely affected  
+B. Unaffected  
+C. Only males  
+D. Always infertile
+
+**121. Consanguinity increases risk of:**  
+A. Dominant disorders only  
+B. Recessive disorders  
+C. Chromosomal loss only  
+D. Mitochondrial deletion only
+
+**122. Which is an autosomal recessive disorder?**  
+A. Huntington’s disease  
+B. Cystic fibrosis  
+C. Marfan syndrome  
+D. Fragile X syndrome
+
+**123. Which is an autosomal dominant disorder?**  
+A. Cystic fibrosis  
+B. Huntington’s disease  
+C. Sickle cell anaemia  
+D. Thalassaemia
+
+**124. In Huntington’s disease, the mutation is in the:**  
+A. CFTR gene  
+B. HTT gene  
+C. HBB gene  
+D. BRCA1 gene
+
+**125. Huntington’s disease is caused by:**  
+A. Deletion mutation  
+B. Repeat expansion mutation  
+C. Chromosome trisomy  
+D. Mitochondrial inheritance only
+
+**126. In Huntington’s disease, the repeated DNA sequence is:**  
+A. ATG  
+B. CAG  
+C. TAA  
+D. GGG
+
+**127. More CAG repeats in Huntington’s disease usually mean:**  
+A. Later onset and milder disease  
+B. Earlier onset and more severe disease  
+C. No change in severity  
+D. Cure
+
+**128. Huntington’s disease shows:**  
+A. Anticipation  
+B. X-inactivation  
+C. Mosaicism only  
+D. Maternal imprinting only
+
+**129. Sex-linked disorders are caused by genes on the:**  
+A. Autosomes only  
+B. X or Y chromosomes  
+C. Mitochondria only  
+D. Ribosomes only
+
+**130. Most sex-linked disorders are:**  
+A. Y-linked  
+B. X-linked  
+C. Autosomal dominant  
+D. Multifactorial only
+
+**131. Females often act as carriers for X-linked recessive disorders because:**  
+A. They have only one X chromosome  
+B. One normal X can mask the disease  
+C. They have no X chromosomes  
+D. They never inherit the gene
+
+**132. Males are more commonly affected by X-linked recessive disorders because:**  
+A. They have two X chromosomes  
+B. They have only one X chromosome  
+C. They have no Y chromosome  
+D. They are always carriers
+
+**133. An affected father passes an X-linked disorder to:**  
+A. All sons  
+B. No sons, but all daughters are carriers  
+C. Only sons  
+D. Only maternal grandchildren
+
+**134. A “knight’s move” pedigree pattern is typical of:**  
+A. Autosomal dominant disease  
+B. X-linked recessive disease  
+C. Autosomal recessive disease  
+D. Mitochondrial disease
+
+**135. Multifactorial inheritance involves:**  
+A. One gene only  
+B. Multiple genes plus environmental factors  
+C. No environment  
+D. Only chromosome number changes
+
+**136. Multifactorial diseases usually:**  
+A. Follow simple dominant/recessive patterns  
+B. Represent a predisposition, not certainty  
+C. Are always inherited from one parent  
+D. Do not involve genes
+
+**137. Which is an example of multifactorial disease?**  
+A. Cystic fibrosis  
+B. Diabetes  
+C. Huntington’s disease  
+D. Turner syndrome
+
+**138. Epigenetics refers to:**  
+A. Changes in DNA sequence  
+B. Changes in gene expression without changing DNA sequence  
+C. Chromosome number changes  
+D. Protein digestion
+
+**139. Telomeres are:**  
+A. Chromosome caps that protect DNA  
+B. DNA repair enzymes  
+C. Cell membranes  
+D. Ribosomal units
+
+**140. A key nursing role in genetics education is to:**  
+A. Provide clear, accessible, evidence-based information  
+B. Avoid discussing uncertainty  
+C. Assume all patients understand screening  
+D. Replace counselling with online searches
+
+## Answer key
+
+1-C, 2-C, 3-B, 4-B, 5-B, 6-B, 7-B, 8-B, 9-B, 10-B, 11-C, 12-B, 13-B, 14-B, 15-D, 16-C, 17-B, 18-B, 19-B, 20-A, 21-A, 22-A, 23-B, 24-B, 25-B, 26-B, 27-B, 28-C, 29-B, 30-A, 31-A, 32-A, 33-A, 34-B, 35-B, 36-B, 37-A, 38-A, 39-B, 40-A, 41-B, 42-B, 43-A, 44-B, 45-A, 46-B, 47-B, 48-A, 49-B, 50-B, 51-B, 52-B, 53-B, 54-B, 55-B, 56-B, 57-B, 58-A, 59-A, 60-A, 61-B, 62-B, 63-B, 64-B, 65-B, 66-B, 67-B, 68-B, 69-B, 70-B, 71-B, 72-B, 73-B, 74-B, 75-B, 76-B, 77-C, 78-B, 79-A, 80-A, 81-B, 82-B, 83-B, 84-B, 85-D, 86-C, 87-B, 88-B, 89-A, 90-A, 91-B, 92-B, 93-B, 94-B, 95-B, 96-B, 97-B, 98-A, 99-B, 100-B, 101-B, 102-B, 103-B, 104-B, 105-A, 106-A, 107-A, 108-A, 109-B, 110-B, 111-A, 112-B, 113-B, 114-B, 115-B, 116-B, 117-B, 118-A, 119-B, 120-B, 121-B, 122-B, 123-B, 124-B, 125-B, 126-B, 127-B, 128-A, 129-B, 130-B, 131-B, 132-B, 133-B, 134-B, 135-B, 136-B, 137-B, 138-B, 139-A, 140-A. արված to=functions.push_files  天天中彩票派奖json  天天彩票是 to=functions.push_files ／久久json  天天中彩票上json  നിന്നോടു  天天中彩票的json  ਹੋɓ র্ঘে  สำนักเลขานุการองค์กร  彩神争霸快三 官网群 凤凰大参考  天天彩票app െന്നjson  大发极速 ത്തിലേക്ക്  彩神争霸苹果 ണ്ട്  भीतर ിഞ്ഞ  亚历山大发 ುತ್ತಿದೆ ૂત ుత ાઓ ుంది ល់ ਿੰး ಿಸಿಕೊಂಡ ূল ిម្ម ്രമ ૃ ास ៏ ૃ ‍  ਨੂੰ  પાછ ുകയാണ് ിലേക്ക് ள்ள ួ ի ំ ៮ ും  нjson
